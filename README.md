@@ -1,2 +1,2 @@
-# hmtl-mine
+# html-mine
 First project12
